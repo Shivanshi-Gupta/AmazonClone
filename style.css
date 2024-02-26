@@ -22,7 +22,7 @@
     width:112px;
 }
 .logo{
-    background-image: url(/images/amazonlogo.jpg);
+    background-image: url(./images/amazonlogo.jpg);
     height:50px;
     width:100%;
     background-size:cover;
@@ -133,7 +133,7 @@ span{
 }
 /* Hero-section */
 .hero-sec{
-    background-image: url(/images/beauty.jpg);
+    background-image: url(./images/beauty.jpg);
     height:330px;
     background-size: cover;
     display:flex;
@@ -229,7 +229,7 @@ ul p{
     align-items: center;
 }
 .footer_logo{
-    background-image: url(/images/logo_footer.png);
+    background-image: url(./images/logo_footer.png);
     background-size:cover;
     /* height:60px;
     width:200px; */
